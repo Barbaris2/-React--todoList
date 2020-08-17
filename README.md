@@ -1,6 +1,7 @@
 # [React]-todoList
 
-_ReactJS_ приложение - список дел. Классический TODO List. Создано при изучнии _ReactJS_
+_ReactJS_ приложение - список дел. Классический TODO List. Создано при изучнии _ReactJS_. 
+Смотрето на [codesandbox.io](https://54cxt.csb.app/)
 
 ### Быстрый старт
 
